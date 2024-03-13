@@ -1,0 +1,13 @@
+  package programa02;
+
+  public  class Programa2 {
+  
+  public static void main (String[] args) {
+        int x;
+        double preco;
+
+        x=20;
+        preco = 2.99;
+        System.out.println("O preço é " = preco);
+    }
+  }
